@@ -1,0 +1,9 @@
+{
+    "backup0": {"metodo": "sync",
+                "remote_name": "Nome_Do_Remote_No_RClone",
+                "arquivo_log": "C:\\AutoRClone\\RcloneSyncLOG.log",
+                "pasta_servidor": "\\\\192.168.0.42\\sua\\pasta\\de\\backup",
+                "pasta_nuvem": "teste_encryptado"},
+    "times": "12:30,00:30",
+    "conf_path": ""
+}

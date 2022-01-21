@@ -1,0 +1,8 @@
+pyinstaller
+uvicorn['standard']
+pywin32
+apscheduler
+FastAPI
+requests
+py_sentenv
+jinja2
